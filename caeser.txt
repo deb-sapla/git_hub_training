@@ -4,3 +4,4 @@ now checking with git diff status ...
 now checking with stage and history
 
 Last line shoud conflict
+Adding one more last line
