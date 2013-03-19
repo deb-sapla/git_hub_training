@@ -1,5 +1,0 @@
-oh my god
-oh my god new
-now checking with git diff status ...
-now checking with stage and history
-
