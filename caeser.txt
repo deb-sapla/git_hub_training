@@ -2,11 +2,5 @@ oh my goodness
 oh my god new
 now checking with git diff status ...
 now checking with stage and history
-<<<<<<< HEAD
-created new branch feature
-working on feature
-=======
-adding new lines in feature branch
-WWOW we are in feature branch
->>>>>>> feature
-cursed files... not merged properly ... BAD BAD BAD
+
+Last line shoud conflict
