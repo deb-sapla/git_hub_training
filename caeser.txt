@@ -4,3 +4,4 @@ now checking with git diff status ...
 now checking with stage and history
 
 adding last conflicting line
+adding in github.com
